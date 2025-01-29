@@ -19,4 +19,4 @@ wget https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages4.fanpop.c
 - [X] Make headers
 - [X] Insert Dog
 - [X] Show download dog
-- [ ]
+- [ ] Make this list
